@@ -1,0 +1,6 @@
+2023-11-16T20:30:29.220Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T20:30:29.241Z [test] info: Mongo Client Connected For DB: protocolserver-v2-response-cache
+2023-11-16T20:30:42.413Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T20:30:42.433Z [test] info: Mongo Client Connected For DB: protocolserver-v2-response-cache
+2023-11-16T20:31:07.166Z [test] info: MQ Client Connected For: 127.0.0.1
+2023-11-16T20:31:07.183Z [test] info: Mongo Client Connected For DB: protocolserver-v2-response-cache
