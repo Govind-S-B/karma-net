@@ -1,6 +1,6 @@
 # Mandatory
 server:
-  port: 5002
+  port: 5005
 
 # Mandatory.
 cache:
@@ -22,10 +22,10 @@ responseCache:
 # 3. pubSub
 client:
   #synchronous: 
-  #mongoURL: "mongodb://127.0.0.1:27017/protocolserver-v2-response-cache"
+    #mongoURL: "mongodb://127.0.0.1:27017/protocolserver-v2-response-cache"
 
   webhook:
-   url: "https://beckn.free.beeceptor.com/clientURL"
+    url: "https://beckn.free.beeceptor.com/clientURL"
   
   #messageQueue: 
   #  amqpURL: "amqp://guest:guest@localhost:5672"
@@ -81,18 +81,17 @@ app:
         ttl: "PT10S"
   
   # Mandatory.
-  # Mandatory.
-  privateKey: "K7O+7GJ0Ch4ONJhvemw9UFHc22dI9AitDJ64vdKSSRgjHJkO5F182tI4cWjRWV3zWvCuyNlYg36bgtWbkaBvFA=="
-  publicKey: "IxyZDuRdfNrSOHFo0Vld81rwrsjZWIN+m4LVm5GgbxQ="
+  privateKey: "kIL2geQNvk/OTHW8RF8svBV7nHbO1dIi4XEMD+YMeQFWvcBszFr2OHcirbby2adDl3AUoSS99QzwaVkSAb56cw=="
+  publicKey: "Vr3AbMxa9jh3Iq228tmnQ5dwFKEkvfUM8GlZEgG+enM="
 
   # Mandatory.
-  subscriberId: "riza.onest:work-opportunities.BPP"
-  subscriberUri: "https://riza.loca.lt"
+  subscriberId: "Deva.onest:work-opportunities.BPP"
+  subscriberUri: "https://deva.loca.lt"
   
   # Mandatory.
   registryUrl: https://registry.becknprotocol.io/subscribers
   auth: true
-  uniqueKey: "riza17"
+  uniqueKey: "Deva@123"
   
   # Mandatory.
   city: "std:080"
