@@ -25,7 +25,6 @@ The project's primary goal is to create a client application that effectively ut
 - Frontend:
   - Vue.js
   - Vuex for state management
-  - Axios for API requests
 
 ## Conclusion
 The Beckn Protocol Talent Discovery Platform showcases decentralized talent discovery and collaboration within the Mulearn community.
