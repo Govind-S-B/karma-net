@@ -19,8 +19,8 @@ The project's primary goal is to create a client application that effectively ut
 ## Technologies Used
 - Backend:
   - Python
-  - Flask or Django
-  - MongoDB or SQL-based database
+  - Flask 
+  - MongoDB 
 
 - Frontend:
   - Vue.js
